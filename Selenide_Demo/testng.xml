@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="selenide - selenide Demo" verbose="10">
+<suite name="selenide - selenide Demo1" verbose="10">
 	<test name="Write new post" preserve-order="true">
 		<classes>
 			<class name="com.demo.Selenide_Test">
